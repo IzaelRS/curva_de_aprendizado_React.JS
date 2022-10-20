@@ -1,0 +1,114 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Cooler",
+      "price": 59.9
+    },
+    {
+      "id": 2,
+      "name": "Processador",
+      "price": 699
+    },
+    {
+      "id": 3,
+      "name": "Memoria Ram",
+      "price": 300
+    },
+    {
+      "id": 4,
+      "name": "placa Mae",
+      "price": 399.9
+    },
+    {
+      "id": 5,
+      "name": "Ssd",
+      "price": 100.9
+    },
+    {
+      "id": 6,
+      "name": "Placa de video",
+      "price": 2000
+    },
+    {
+      "name": "teclado",
+      "price": "55",
+      "id": 7
+    },
+    {
+      "name": "teclado",
+      "price": "55",
+      "id": 8
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 9
+    },
+    {
+      "name": "teste",
+      "price": "12",
+      "id": 10
+    },
+    {
+      "name": "controle",
+      "price": "500",
+      "id": 11
+    },
+    {
+      "name": "mouse",
+      "price": "110",
+      "id": 12
+    },
+    {
+      "name": "fone gamer",
+      "price": "1444",
+      "id": 13
+    },
+    {
+      "name": "teste",
+      "price": "78787",
+      "id": 14
+    },
+    {
+      "name": "Izael Rodrigues da Silva",
+      "price": "4545454",
+      "id": 15
+    },
+    {
+      "name": "carregador",
+      "price": "787",
+      "id": 16
+    },
+    {
+      "name": "carregador",
+      "price": "787",
+      "id": 17
+    },
+    {
+      "name": "carregador",
+      "price": "787",
+      "id": 18
+    },
+    {
+      "name": "carregador",
+      "price": "787",
+      "id": 19
+    },
+    {
+      "name": "carregador",
+      "price": "787",
+      "id": 20
+    },
+    {
+      "name": "texa",
+      "price": "4545",
+      "id": 21
+    },
+    {
+      "name": "455",
+      "price": "444",
+      "id": 22
+    }
+  ]
+}
